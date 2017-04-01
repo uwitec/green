@@ -1,0 +1,13 @@
+
+.classpath
+.project
+*.iml
+*.eml
+target
+*.log
+*.log.*
+**/resources/green-admin
+generatorConfig.xml
+.DS_Store
+.gitignore
+green-upms/green-upms-server/src/main/resources/
