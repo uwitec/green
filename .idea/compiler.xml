@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="green-common" />
+        <module name="green-upms-client" />
+        <module name="green-upms-common" />
+        <module name="green-upms-dao" />
+        <module name="green-upms-rpc-api" />
+        <module name="green-upms-rpc-service" />
+        <module name="green-upms-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="green-common" target="1.5" />
+      <module name="green-upms" target="1.5" />
+      <module name="green-upms-client" target="1.5" />
+      <module name="green-upms-common" target="1.5" />
+      <module name="green-upms-dao" target="1.5" />
+      <module name="green-upms-rpc-api" target="1.5" />
+      <module name="green-upms-rpc-service" target="1.5" />
+      <module name="green-upms-server" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

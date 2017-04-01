@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/green.iml" filepath="$PROJECT_DIR$/.idea/green.iml" />
+      <module fileurl="file://$PROJECT_DIR$/green-common/green-common.iml" filepath="$PROJECT_DIR$/green-common/green-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/green-upms/green-upms.iml" filepath="$PROJECT_DIR$/green-upms/green-upms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/green-upms/green-upms-client/green-upms-client.iml" filepath="$PROJECT_DIR$/green-upms/green-upms-client/green-upms-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/green-upms/green-upms-common/green-upms-common.iml" filepath="$PROJECT_DIR$/green-upms/green-upms-common/green-upms-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/green-upms/green-upms-dao/green-upms-dao.iml" filepath="$PROJECT_DIR$/green-upms/green-upms-dao/green-upms-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/green-upms/green-upms-rpc-api/green-upms-rpc-api.iml" filepath="$PROJECT_DIR$/green-upms/green-upms-rpc-api/green-upms-rpc-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/green-upms/green-upms-rpc-service/green-upms-rpc-service.iml" filepath="$PROJECT_DIR$/green-upms/green-upms-rpc-service/green-upms-rpc-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/green-upms/green-upms-server/green-upms-server.iml" filepath="$PROJECT_DIR$/green-upms/green-upms-server/green-upms-server.iml" />
+    </modules>
+  </component>
+</project>
